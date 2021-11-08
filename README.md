@@ -1,6 +1,6 @@
 # MUSIC SEARCH
 
-***Aplicaion para buscar la biografia de una banda y las letras de las canciones utilizando la API AudioDB y lyrics OVH***
+***Aplicación para buscar la biografia de una banda y las letras de las canciones utilizando la API AudioDB y lyrics OVH***
 
 
 
